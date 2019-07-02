@@ -1,6 +1,4 @@
-=================================
- pyYr902
-=================================
+# pyYr902
 
 This module is used to communicate with the Yr902 RFID scanner and read tags.
 
